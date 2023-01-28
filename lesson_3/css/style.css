@@ -1,0 +1,13 @@
+/* @import url(reset.css); */
+
+.color_style{
+    color: red;
+}
+
+.color_warning{
+    color: brown;
+}
+
+.list__container{
+    color: blueviolet;
+}
