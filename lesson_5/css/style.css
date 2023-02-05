@@ -1,0 +1,71 @@
+@import url("reset.css");
+
+
+
+body{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 25px;
+    color: #6C757D;
+}
+
+
+.content__live{
+    margin-bottom: 80px;
+}
+
+
+.label{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 40px;
+    color: #212529;
+    margin: 0 0 40px 312px;
+    max-width: 816px; 
+    margin: 0 auto 40px auto;
+
+}
+
+
+.text{
+    max-width: 816px;
+    margin: 0 auto;
+}
+
+.text p{
+    padding-bottom: 33px;
+}
+
+.desert__foto{
+    max-width: 1240px;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+.people__text{
+    margin-bottom: 80px;
+}
+
+.images__tabs{
+    max-width: 1240px;
+    margin: 0 auto;
+    font-size: 0; 
+    margin-bottom: 80px;
+}
+
+.boat{
+    max-width: 100%;
+    margin-right: 30px;
+}
+
+.forest{
+    max-width: 100%;
+}    
+
+
+
+
