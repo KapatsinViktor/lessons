@@ -1,0 +1,130 @@
+
+@import url("reset.css");
+
+body {
+    font-family: Poppins sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 25px;
+    color: #6C757D;
+
+}
+
+[class*="__container"] {
+    max-width: 1270px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+[class*="__style"] {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 40px;
+    color: #212529;
+}
+
+.box__text {
+    max-width: 816px;
+    margin: 0 auto 80px;
+}
+
+.container__text p {
+    margin-bottom: 30px;
+}
+
+.title__style {
+    margin-bottom: 40px;
+}
+
+.limit {
+    max-width: 605px;
+}
+
+.container__picture {
+    margin-bottom: 80px;
+}
+
+.container__picture img {
+    max-width: 100%;
+}
+
+.container__pictures {
+    font-size: 0;
+    margin-bottom: 80px;
+}
+.pictures__boat {
+    margin-right: 30px;
+    max-width: 100%;
+}
+.pictures__forest {
+    max-width: 100%;
+}
+
+.link__page {
+    text-align: center;
+    
+}
+.page {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 40px;
+    color: #cb1111;
+    border: 5px solid #6C757D;
+    border-radius: 20px;
+    box-shadow: 0px 0px 35px 0px #000;;
+}
+
+
+
+/* ----------------Page 2 ----------------*/
+
+.wrapper {
+    max-width: 1440px;
+    margin: 0  auto;
+}
+
+.baner {
+    margin-bottom: 100px;
+}
+
+.baner img {
+    max-width: 100%;
+}
+
+.content_box {
+    max-width: 1240px;
+    margin: 0 auto;
+}
+.content__text {
+    max-width: 816px;
+    margin: 0 auto;
+}
+.text p{
+    margin-bottom: 30px;
+}
+
+.text {
+    margin-bottom: 100px;
+}
+
+.caption__style {
+    margin-bottom: 100px;
+}
+
+.content__image {
+    font-size: 0;
+    margin-bottom: 100px;
+}
+.black-cl {
+    margin-right: 30px;
+    max-width: 100%;
+}
+.red-cl {
+    max-width: 100%;
+}
+
+
