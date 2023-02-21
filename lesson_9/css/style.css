@@ -1,0 +1,57 @@
+
+
+@import url("reset.css");
+
+.wrapper {
+    padding: 25px 15px;
+    background: gray;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #e3e6f1;
+}
+
+/*----------------------------- Icon---------------------------- */
+
+.icon {
+}
+
+.title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 24px;
+    color: #e3e6f1;
+    margin-bottom: 20px;
+}
+
+.text__block {
+    max-width: 800px;
+    margin-bottom: 50px;
+}
+.img-icon__block {
+    margin-bottom: 80px;
+}
+
+/*----------------------------- desing---------------------------- */
+
+.desing {
+}
+.text__block {
+}
+.title {
+}
+.img-dising__block {
+    margin-bottom: 80px;
+}
+
+/*----------------------------- content---------------------------- */
+
+
+.img-content__block img {
+    border-radius: 15px;
+    max-width: 100%;
+}
