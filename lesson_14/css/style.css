@@ -1,0 +1,138 @@
+
+
+@import url("reset.css");
+
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    color: #495057;
+}
+
+img {
+    max-width: 100%;
+    object-fit: cover;
+}
+
+[class*="__container"] {
+    max-width: 1270px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.wrapper {
+}
+.main {
+}
+.main__container {
+}
+.main__menu {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 44px;
+}
+.menu {
+}
+.menu__cat {
+}
+.menu__link {
+}
+.menu__column {
+    display: flex;
+    gap:20px
+}
+.column {
+    
+}
+.column__link {
+}
+
+.column__link--active {
+    color: rgba(73, 80, 87, 0.5);
+}
+
+
+/*------------------------- card -------------------------*/
+
+.main__gallery {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 45px;
+}
+.gallery {
+}
+.gallery__card {
+    display: flex;
+    flex-direction: column;
+    flex: 0 1 33.333%;
+    padding: 0 15px;
+    position: relative;
+}
+.card {
+}
+.card__img {
+    margin-bottom: 30px;
+}
+.card__article {
+    position: absolute;
+    top: 30px;
+    right: 45px;
+    font-weight: 700;
+    font-size: 8px;
+    line-height: 2.5;
+    text-align: center;
+    color: #F8F9FA;
+    padding: 3px 12px;
+    background: rgba(33, 37, 41, 0.3);
+    border-radius: 3px;
+}
+.gallery__info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    row-gap: 15px;
+    flex-grow: 1;
+}
+.gallery__date {
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 1.66;
+}
+.gallery__title {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 1.6;
+    color: #212529;
+}
+.gallery__text {
+    font-weight: 300;
+    line-height: 1.66;
+    flex-grow: 1;
+}
+.gallery__auhtor {
+    width: 100%;
+    border-top: 1px solid #E5E5E5;
+    padding-top: 15px
+}
+
+.main__button {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.botton__link {
+    background: #212529;
+    border-radius: 3px;
+    font-weight: 500;
+    line-height: 2.08;
+    border-radius: 3px;
+    padding: 8px 50px;
+    min-width: 178px;
+    color: #F8F9FA;
+    transition: all 1s;
+}
+
+.botton__link:hover {
+    background: #484e54;
+}
